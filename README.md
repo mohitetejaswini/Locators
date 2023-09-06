@@ -1,1 +1,2 @@
 # Locators
+# MagentoTestingBoard-Demo-store
